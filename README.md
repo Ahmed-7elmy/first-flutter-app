@@ -11,7 +11,9 @@ Welcome to your **first Flutter project**! 🎉
 
 Let's get coding! 💻
 
-![Project Screenshot](assets/screenshot.png)
+## 📸 Project Screenshot
+
+![Project Screenshot](assets/project.png)
 
 
 
