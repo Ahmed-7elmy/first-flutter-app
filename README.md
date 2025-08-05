@@ -13,7 +13,7 @@ Let's get coding! 💻
 
 ![Project Screenshot](assets/screenshot.png)
 
-## Getting Started
+
 
 ## Getting Started
 
